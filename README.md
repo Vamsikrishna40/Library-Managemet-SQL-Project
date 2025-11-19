@@ -1,6 +1,7 @@
 
 # 📚 Library Management System — SQL Project
-[!image][https://github.com/Vamsikrishna40/Library-Managemet-SQL-Project/blob/main/LIbrary%20Management.png]
+![Logo]([https://github.com/Vamsikrishna40/Netflix_SQL_Project/blob/main/logo.png](https://github.com/Vamsikrishna40/Library-Managemet-SQL-Project/blob/main/LIbrary%20Management.png))
+
 ## 📝 Project Summary
 This project is a **fully relational Library Management System** built using **MySQL**.  
 It manages:
